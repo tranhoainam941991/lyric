@@ -23,4 +23,8 @@ export class SearchComponent implements OnInit {
       isSearchTracksHaveLyric: new FormControl()
     });
   }
+
+  handleSubmit() {
+
+  }
 }
